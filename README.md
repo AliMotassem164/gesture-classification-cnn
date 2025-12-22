@@ -82,18 +82,6 @@ A simple GUI was developed to:
 - Predict the gesture class using the trained model
 - Display the prediction result
 
-
-## 🚀 How to Run the Project
-
-1. Install the required libraries
-```bash
-pip install -r requirements.txt
-2. Run the training notebooks inside the notebooks folder
-
-3. Run the GUI application
-```bash
-python gui/app.py
-
 ## 👥 Team Roles & Responsibilities
 
 - **Ali Moatasem**  
@@ -113,4 +101,13 @@ python gui/app.py
 
 - **Mohamed Nasser**  
   Responsible for **GitHub repository management**, including project structure, commits, version control, and collaboration.
+
+
+## 🚀 How to Run the Project
+
+### Install the required libraries
+```bash
+pip install -r requirements.txt
+
+python gui/app.py
 
