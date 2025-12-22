@@ -93,3 +93,24 @@ pip install -r requirements.txt
 3. Run the GUI application
 ```bash
 python gui/app.py
+
+## 👥 Team Roles & Responsibilities
+
+- **Ali Moatasem**  
+  Responsible for designing and implementing the **Graphical User Interface (GUI)** and integrating it with the trained models.
+
+- **Mohamed Walied**  
+  Responsible for **data preprocessing**, including data cleaning, normalization, splitting, and preparation for model training.
+
+- **Mohamed Ahmed**  
+  Responsible for building and training the **VGG16-based CNN model**, including tuning and evaluation.
+
+- **Mohamed Sayed**  
+  Responsible for implementing and training the **MobileNet model**, focusing on efficiency and performance.
+
+- **Abdelrahem Farghly**  
+  Responsible for developing and training the **ResNet model**, achieving high accuracy using deep residual learning.
+
+- **Mohamed Nasser**  
+  Responsible for **GitHub repository management**, including project structure, commits, version control, and collaboration.
+
